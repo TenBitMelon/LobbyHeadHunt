@@ -31,4 +31,4 @@ jobs:
         uses: actions/upload-artifact@v2.2.4
         with:
           name: LobbyHeadHunt.jar
-          path: ./build/libs/LobbyHeadHunt-*-SNAPSHOT.jar
+          path: ./target/LobbyHeadHunt-*-SNAPSHOT.jar
