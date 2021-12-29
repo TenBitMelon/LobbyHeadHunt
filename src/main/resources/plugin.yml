@@ -1,0 +1,6 @@
+name: LobbyHeadHunt
+version: '${project.version}'
+main: me.melonboy10.lobbyheadhunt.LobbyHeadHunt
+api-version: 1.18
+authors: [ melonboy10 ]
+load: POSTWORLD
